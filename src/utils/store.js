@@ -1,15 +1,15 @@
 const cards = [
     {
       id: 'card-1',
-      content: 'CARD 1',
+      title: 'CARD 1',
     },
     {
       id: 'card-2',
-      content: 'CARD 2',
+      title: 'CARD 2',
     },
     {
       id: 'card-3',
-      content: 'CARD 3',
+      title: 'CARD 3',
     },
   ];
   
